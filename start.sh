@@ -1,1 +1,1 @@
-gunicorn "drone_inventory:app()"
+gunicorn "drone_inventory:app"
